@@ -1,0 +1,1 @@
+select * from dbt.dw_lnd.customer

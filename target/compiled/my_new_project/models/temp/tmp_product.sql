@@ -1,0 +1,1 @@
+select * from DBT.DW_LND_stg_rikesh_1.stg_product

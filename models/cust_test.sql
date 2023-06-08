@@ -1,0 +1,1 @@
+{{check_temp_reject('TMP_CUSTOMER','Customers','TGT_CUSTOMER')}}

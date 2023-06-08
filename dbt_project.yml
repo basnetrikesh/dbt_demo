@@ -44,3 +44,6 @@ models:
     target:
       materialized: incremental
       schema: tgt_rikesh_1
+    rejection:
+      materialized: table
+      schema: rej_rikesh_1
